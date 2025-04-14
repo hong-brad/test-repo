@@ -8,5 +8,15 @@
         "updated_at": "",
         "status": "AVAILABLE",
         "is_custom": false
+      },
+      {
+        "module_name": "Test Module 2",
+        "display_name": "Test Module 2",
+        "category": "Workstation",
+        "manifest_url": "https://example.com/test2.json",
+        "created_at": "",
+        "updated_at": "",
+        "status": "AVAILABLE",
+        "is_custom": false
       }
 ]
