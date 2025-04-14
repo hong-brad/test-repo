@@ -1,0 +1,12 @@
+[
+    {
+        "module_name": "Test Module",
+        "display_name": "Test Module",
+        "category": "Storage",
+        "manifest_url": "https://example.com/test.json",
+        "created_at": "",
+        "updated_at": "",
+        "status": "AVAILABLE",
+        "is_custom": false
+      }
+]
